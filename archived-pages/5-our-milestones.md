@@ -1,7 +1,8 @@
---- 
-layout: leftnav-page-content 
-title: Our Milestones
---- 
+---
+title: 'Our Milestones'
+
+---
+ 
 <!--TEMPLATE
 #### **YEAR**
 <hr style="margin-top:12px;">
