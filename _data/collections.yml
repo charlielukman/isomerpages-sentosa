@@ -1,0 +1,85 @@
+collections:
+    -
+        title: careers
+        collection: careers
+        collectionPages:
+            -
+                title: Overview
+                url: /careers/life-in-sentosa
+                filepath: _careers/1a-life-in-sentosa.md
+                thirdnav: 'Life in Sentosa (test)'
+            -
+                title: 'Develop-with-us (test)'
+                url: /careers/life-in-sentosa/develop-with-us
+                filepath: _careers/1b-develop-with-us.md
+                thirdnav: 'Life in Sentosa (test)'
+            -
+                title: 'Work and have fun with us (test)'
+                url: /careers/life-in-sentosa/work-and-have-fun-with-us
+                filepath: _careers/1c-work-and-have-fun-with-us.md
+                thirdnav: 'Life in Sentosa (test)'
+            -
+                title: 'care-with-us (test)'
+                url: /careers/life-in-sentosa/care-with-us
+                filepath: _careers/1d-care-with-us.md
+                thirdnav: 'Life in Sentosa (test)'
+            -
+                title: 'Meet the teams(test)'
+                url: /careers/meet-the-teams/
+                filepath: _careers/2-meet-the-teams.md
+            -
+                title: Job-Opportunities(test)
+                url: /careers/job-opportunities
+                filepath: _careers/3-job-opportunities.md
+            -
+                title: 'Connect with us(test)'
+                url: /careers/connect-with-us/
+                filepath: _careers/4-connect-with-us.md
+    -
+        title: partner-us
+        collection: partner-us
+        collectionPages:
+            -
+                title: Collaborations
+                url: /partner-us/collaborations/
+                filepath: _partner-us/1-collaborations.md
+            -
+                title: Opportunities
+                url: /partner-us/opportunities/
+                filepath: _partner-us/2-opportunities.md
+            -
+                title: 'Sentosa x Enterprise'
+                url: /partner-us/sentosa-enterprise/
+                filepath: _partner-us/3-sentosa-enterprise.md
+    -
+        title: what-we-do
+        collection: what-we-do
+        collectionPages:
+            -
+                title: 'Fun Sentosa'
+                url: /what-we-do/fun-sentosa/
+                filepath: _what-we-do/1-fun-sentosa.md
+            -
+                title: 'Smart Sentosa'
+                url: /what-we-do/smart-sentosa/
+                filepath: _what-we-do/2-smart-sentosa.md
+            -
+                title: 'Sustainable Sentosa'
+                url: /what-we-do/sustainable-sentosa/
+                filepath: _what-we-do/3-sustainable-sentosa.md
+    -
+        title: who-we-are
+        collection: who-we-are
+        collectionPages:
+            -
+                title: Overview
+                url: /who-we-are/overview/
+                filepath: _who-we-are/1-overview.md
+            -
+                title: 'Organisational Structure'
+                url: /who-we-are/organisational-structure/
+                filepath: _who-we-are/2-organisational-structure.md
+            -
+                title: 'Our Brands and Subsidiaries'
+                url: /who-we-are/our-brands-and-subsidiaries
+                filepath: _who-we-are/3-our-brands-and-subsidiaries.md
