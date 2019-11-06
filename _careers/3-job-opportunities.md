@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Job-Opportunities(test)
 permalink: /careers/job-opportunities
 breadcrumb: job-opportunities
-collection_name: careers
+
 ---
+
 ## Find your fit
   Keen to join us in this fun-making career?  
   Browse through the opportunities now!
