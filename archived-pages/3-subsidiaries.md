@@ -1,7 +1,8 @@
 ---
-layout: leftnav-page-content 
 title: Subsidiaries
+
 ---
+
 ### **SDC and Subsidiaries**
 <div class="row">
     <div class="col is-4">
