@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Meet the teams(test)
+title: 'Meet the teams(test)'
 permalink: /careers/meet-the-teams/
 breadcrumb: meet-the-team
-collection_name: careers
+
 ---
+
 ## #teamsentosa
   
 <img src="images/test/test-hero-banner.jpg" alt="Group Photo"/>
