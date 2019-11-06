@@ -1,7 +1,8 @@
---- 
-layout: leftnav-page-content 
-title: Awards And Accolades 
---- 
+---
+title: 'Awards And Accolades'
+
+---
+ 
 test
 <!--TEMPLATE
 #### **YEAR**
