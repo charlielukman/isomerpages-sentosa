@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Smart Sentosa
+title: Smart Sentosa 101
 permalink: /what-we-do/smart-sentosa/
 breadcrumb: Smart Sentosa
 collection_name: what-we-do
